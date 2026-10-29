@@ -1,0 +1,124 @@
+llamay — Software Licence Agreement
+Copyright (c) 2026 Kosa8 Labs. All rights reserved.
+llamay is a product of Kosa8 Labs (https://kosa8labs.com).
+
+READ THIS BEFORE INSTALLING OR USING llamay. By downloading, installing or
+using the software you accept this Agreement. If you do not accept it, do not
+install or use the software.
+
+
+1. DEFINITIONS
+
+   "Kosa8 Labs", "we" and "us" mean Kosa8 Labs, the maker and licensor of
+   llamay.
+
+   "Software" means the llamay executable programs and any accompanying files,
+   documentation, model marks, icons and data supplied by Kosa8 Labs, together
+   with any updates Kosa8 Labs makes available.
+
+   "You" means the individual or organisation accepting this Agreement.
+
+
+2. WHAT YOU MAY DO
+
+   Kosa8 Labs grants You a personal, non-exclusive, non-transferable, revocable
+   licence to install and run the Software, on any number of machines You own
+   or control, for any purpose including commercial use.
+
+   You may make copies of the Software solely for backup and for deployment
+   within Your own organisation, provided every copy carries this Agreement
+   unaltered.
+
+   Anything You create with the Software — text, code, embeddings, snapshots,
+   or any other output — is Yours. Kosa8 Labs claims no right in it.
+
+
+3. WHAT YOU MAY NOT DO
+
+   You may not:
+
+   (a) sell, rent, lease, sublicense, publish or otherwise distribute the
+       Software to anyone outside Your organisation;
+
+   (b) offer the Software, or any part of it, as a hosted or managed service
+       to third parties;
+
+   (c) modify, adapt or create derivative works of the Software;
+
+   (d) reverse engineer, decompile or disassemble the Software, or attempt to
+       derive its source code, except to the extent this restriction is
+       expressly prohibited by applicable law;
+
+   (e) remove or obscure any copyright, trademark or licence notice; or
+
+   (f) use the name "llamay", the conch mark, or the other marks used with
+       the Software, except
+       to state factually that You use the Software.
+
+   Source code published by Kosa8 Labs is made visible for inspection only. Its
+   visibility grants no licence under this or any other agreement, and nothing
+   in clause 2 permits its copying, reuse or redistribution.
+
+
+4. RESERVATION OF RIGHTS
+
+   The Software is licensed, not sold. Kosa8 Labs retains all right, title and
+   interest in and to the Software, including all intellectual property
+   rights. No rights are granted except those expressly stated here.
+
+
+5. YOUR DATA
+
+   The Software runs on Your machines and Kosa8 Labs has no access to what
+   You run through it. Where You choose to use Kosa8 Labs' optional hosted services,
+   those services are governed by the terms published with them.
+
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+
+7. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, KOSA8 LABS SHALL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, OR FOR
+   ANY LOSS OF PROFITS, DATA OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH
+   THE SOFTWARE OR THIS AGREEMENT.
+
+   Nothing in this Agreement limits liability that cannot be limited by law.
+
+
+8. TERMINATION
+
+   This licence terminates automatically if You breach it. On termination You
+   must stop using the Software and destroy all copies. Clauses 4, 6, 7 and 9
+   survive termination.
+
+
+9. GENERAL
+
+   This Agreement is the entire agreement between You and Kosa8 Labs concerning
+   the Software. If any provision is held unenforceable, the remainder stays
+   in force.
+
+   Contact: legal@llamay.com
+
+
+10. THIRD-PARTY COMPONENTS
+
+    The Software is built with the Go programming language and its standard
+    library, distributed under the BSD 3-Clause licence, and may include other
+    third-party components listed in the accompanying THIRD-PARTY-NOTICES file
+    where one is supplied. Those components remain governed by their own
+    licences.
+
+
+NOTE ON EARLIER RELEASES
+
+    Versions of llamay published before this Agreement took effect were
+    distributed under the Apache License 2.0. That grant is irrevocable for
+    those versions and is unaffected by this Agreement. This Agreement governs
+    this version and those released after it.
